@@ -24,4 +24,4 @@ Además, se utiliza la interfaz Evaluable para definir el método evaluatePerfor
 
 Esquema del diagrama de clases: (Tambien esta en la carpeta docs/)
 
-![Diagrama][docs/DiagramaGestionEmpleados.png]
+![Diagrama](docs/DiagramaGestionEmpleados.png)
